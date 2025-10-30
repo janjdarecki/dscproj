@@ -1,0 +1,9 @@
+CPIAUCSL.csv: https://fred.stlouisfed.org/series/CPIAUCSL
+PPIACO.csv: https://fred.stlouisfed.org/series/PPIACO
+DGS10.csv: https://fred.stlouisfed.org/series/DGS10
+AAA.csv: https://fred.stlouisfed.org/series/AAA
+GDPC1.csv: https://fred.stlouisfed.org/series/GDPC1
+UNRATE.csv: https://fred.stlouisfed.org/series/UNRATE
+FGEXPND.csv: https://fred.stlouisfed.org/series/FGEXPND
+PRS85006091.csv: https://fred.stlouisfed.org/series/PRS85006091
+PSAVERT.csv: https://fred.stlouisfed.org/series/PSAVERT
